@@ -1,4 +1,5 @@
 🚧 Pothole Detection and Reporting System
+
 An intelligent web-based system for real-time pothole detection, severity analysis, and reporting using AI. Citizens can report potholes with location, images, and details. The system provides estimated pothole size, severity, traffic flow impact, and assigns bounty rewards — all backed by a Spring Boot REST API and a React frontend.📸 Features
 🌍 Location tagging using Mapbox
 The Project made us stand among the top 10 of 63 teams shortlisted from 400+ teams in Social Hackathon- An National Hackathon
