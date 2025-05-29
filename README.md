@@ -98,8 +98,7 @@ json
 ✨ Contributors
 👨‍💻 Pulkit – Frontend, AI Integration
 
-🤝 Tanmay – Backend, REST APIs
-![Dashboard](https://github.com/user-attachments/assets/809802f8-6a53-4dd7-af7c-d6b259c1b7c5)
+🤝 Tanmay – Backend, REST APIs=
 
 
 📜 License
