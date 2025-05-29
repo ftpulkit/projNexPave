@@ -5,7 +5,6 @@ Please read this for Jist/Summary of whole Project idea:
 The basic idea of this project is that in our India, major bodies like politicians who are given responsibility of their region for development of it, are somehow not able to solve problems public face which is of roads. On going to any road, people critisize and think ki God, if  i was to be able to fix it i would have. But no souce for them to fix it. So finally my project nexPave which stood in a National Social Hackathon and was and top 8 of shortlisted 63 teach out of 400+teams came up with a Solution. Any user and visit our website and upload pothole image and ML model (trained locally from dataset available on Kaggle) will predict severity, size,etc of that pothole and tell an estimated bounty for reporting it. Further it goes to Contractor Dashboard where contractor can login into the page and opt to fix the pothole. Various verification to check f pothole is fixed is put too. 
 Considering all human possibilities, the platform is designed.
 
-Go to the link to get project imagination:
 ![DashBoard of the website made](https://github.com/user-attachments/assets/ac002788-d640-49bf-9c61-693d74552ccf)
 ![Contractor DashBoard with Spring Security Enabled](https://github.com/user-attachments/assets/c8b4d3c6-e931-4269-a491-f90cda39baab)
 
