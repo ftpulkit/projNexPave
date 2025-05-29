@@ -1,5 +1,21 @@
 🚧 Pothole Detection and Reporting System
 
+Please read this for Jist/Summary of whole Project idea:
+
+The basic idea of this project is that in our India, major bodies like politicians who are given responsibility of their region for development of it, are somehow not able to solve problems public face which is of roads. On going to any road, people critisize and think ki God, if  i was to be able to fix it i would have. But no souce for them to fix it. So finally my project nexPave which stood in a National Social Hackathon and was and top 8 of shortlisted 63 teach out of 400+teams came up with a Solution. Any user and visit our website and upload pothole image and ML model (trained locally from dataset available on Kaggle) will predict severity, size,etc of that pothole and tell an estimated bounty for reporting it. Further it goes to Contractor Dashboard where contractor can login into the page and opt to fix the pothole. Various verification to check f pothole is fixed is put too. 
+Considering all human possibilities, the platform is designed.
+
+Go to the link to get project imagination:
+![DashBoard of the website made](https://github.com/user-attachments/assets/ac002788-d640-49bf-9c61-693d74552ccf)
+![Contractor DashBoard with Spring Security Enabled](https://github.com/user-attachments/assets/c8b4d3c6-e931-4269-a491-f90cda39baab)
+
+🛠️ Tech Stack
+Frontend	Backend	Other
+React + TailwindCSS	Spring Boot (Java)	Mapbox API
+ShadCN/UI	RESTful APIs	Multipart File Upload
+Framer Motion	OpenAI (optional)	Google Maps (alternative)
+
+
 An intelligent web-based system for real-time pothole detection, severity analysis, and reporting using AI. Citizens can report potholes with location, images, and details. The system provides estimated pothole size, severity, traffic flow impact, and assigns bounty rewards — all backed by a Spring Boot REST API and a React frontend.📸 Features
 🌍 Location tagging using Mapbox
 The Project made us stand among the top 10 of 63 teams shortlisted from 400+ teams in Social Hackathon- An National Hackathon
@@ -14,7 +30,6 @@ The Project made us stand among the top 10 of 63 teams shortlisted from 400+ tea
 ⚙️ Spring Boot API backend
 
 ☁️ Global accessibility (ESP32-compatible architecture ready for IoT)
-
 🛠️ Tech Stack
 Frontend	Backend	Other
 React + TailwindCSS	Spring Boot (Java)	Mapbox API
@@ -85,6 +100,8 @@ json
 👨‍💻 Pulkit – Frontend, AI Integration
 
 🤝 Tanmay – Backend, REST APIs
+![Dashboard](https://github.com/user-attachments/assets/809802f8-6a53-4dd7-af7c-d6b259c1b7c5)
+
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
