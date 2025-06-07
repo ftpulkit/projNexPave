@@ -43,7 +43,7 @@ Framer Motion	OpenAI (optional)	Google Maps (alternative)
 🚀 Getting Started
 📦 Clone the repository
 bash
-git clone https://github.com/yourusername/pothole-reporting-system.git
+git clone (https://github.com/ftpulkit/projNexPave/)
 cd pothole-reporting-system
 
 🧩 Frontend Setup
