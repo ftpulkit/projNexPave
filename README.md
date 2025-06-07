@@ -2,8 +2,13 @@
 
 Please read this for Jist/Summary of whole Project idea:
 
-The basic idea of this project is that in our India, major bodies like politicians who are given responsibility of their region for development of it, are somehow not able to solve problems public face which is of roads. On going to any road, people critisize and think ki God, if  i was to be able to fix it i would have. But no souce for them to fix it. So finally my project nexPave which stood in a National Social Hackathon and was and top 8 of shortlisted 63 teach out of 400+teams came up with a Solution. Any user and visit our website and upload pothole image and ML model (trained locally from dataset available on Kaggle) will predict severity, size,etc of that pothole and tell an estimated bounty for reporting it. Further it goes to Contractor Dashboard where contractor can login into the page and opt to fix the pothole. Various verification to check f pothole is fixed is put too. 
-Considering all human possibilities, the platform is designed.
+The basic idea of this project stems from a common issue in India: despite being entrusted with regional development, many politicians are unable to effectively address problems faced by the public—especially poor road conditions. On encountering potholes, people often think, "If only I could fix this myself." However, they lack the means to do so.
+
+Our project, nexPave, which was among the top 8 shortlisted teams out of 400+ at a National Social Hackathon (from 63 teams that reached the Teach-Out round), offers a practical solution. Through our platform, users can visit the website and upload images of potholes. A machine learning model, trained on a Kaggle dataset, analyzes the image to predict the pothole’s severity, size, and suggests an estimated bounty for reporting it.
+
+The report is then forwarded to a Contractor Dashboard, where registered contractors can log in and choose to fix the reported pothole. We’ve also implemented various verification mechanisms to ensure that the pothole has genuinely been fixed. The platform is thoughtfully designed to account for all possible human factors and ensure effective, community-driven road repair.
+
+
 ![DashBoard of the website made](https://github.com/user-attachments/assets/7968a520-f2af-4cb4-b1ee-826894db9451)
 ![Contractor Dashboard](https://github.com/user-attachments/assets/a162df31-7048-48f9-b60c-bc4d7ac8ccd3)
 
